@@ -6,6 +6,8 @@ hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 author: Walt Whitman
 
 ---
+[![](/images/46ed360fd908ed88.gif)](https://insights.gg/ "insights")
+
 I have heard what the talkers were talking, the talk of the  
 beginning and the end
 
